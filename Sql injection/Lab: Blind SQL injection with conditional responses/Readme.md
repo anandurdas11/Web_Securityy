@@ -1,4 +1,4 @@
-![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/fb5a8ae4-ccb3-498e-ad97-24ece925a11b)# Lab: Blind SQL injection with conditional responses #
+# Lab: Blind SQL injection with conditional responses #
 
 # Lab Description #
 
