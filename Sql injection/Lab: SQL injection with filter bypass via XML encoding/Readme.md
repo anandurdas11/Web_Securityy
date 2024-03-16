@@ -22,4 +22,18 @@ When replace stockid feild with 1+1 it get the same results and it get executed 
 
 > We try encode in hexa try again
 
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/66274d52-22db-4c7e-a46c-cdfc08f60050)
 
+> We got the results so it worked
+
+> When we use payload 1 UNION SELECT NULL NULL we got 0 units which means there 2 columns
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/af347f5a-7203-49ae-a9f0-3efa8cab74da)
+
+> when we used the payload 1 UNION SELECT username || '~' || password FROM users we got all user details
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/744baf69-cd3b-4f4b-b22a-85dfd462bada)
+
+> admin details administrator~xjgi2jjtoj6909lmpr76
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/83282a5a-488b-47e1-a1cd-776660fd0077)
