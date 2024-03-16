@@ -1,4 +1,4 @@
-![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/b83b8637-b8cb-4308-9efc-e9a60af7f7c7)# Lab: SQL injection with filter bypass via XML encoding #
+# Lab: SQL injection with filter bypass via XML encoding #
 
 ## Lab Description ##
 
