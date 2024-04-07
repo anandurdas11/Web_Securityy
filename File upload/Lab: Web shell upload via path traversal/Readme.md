@@ -22,3 +22,14 @@
 
 > We have intercepted the request and try directory travesal.
 
+> We have changed the post request and try get content of the secret
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/87490f68-b3c5-460d-bd6d-fac0afeab47c)
+
+> So we go to get request fo getting the content we can see the content
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/d1d5546c-3f5f-4858-bfed-1ed916868d5a)
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/7eb90afe-10d9-4835-b8a0-d226ed742f81)
+
+
