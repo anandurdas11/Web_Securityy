@@ -18,9 +18,13 @@
 
 > So we can see that `http://127.0.0.1/admin` is not working lets try change paylaod
 
-![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/5413a541-5ad4-4fb7-b2d4-9fdc519d0946)
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/83670164-edd3-49b4-92cf-53880a788e53)
 
 > When we added the html encoding it worked and we got the admin panel.
 
 > Now try delete users carlos in same way
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/1708f380-7c34-497b-90c2-6e918172b092)
+
+![image](https://github.com/anandurdas11/Web_Securityy/assets/83402050/e63e2fa8-f35c-4d03-82a6-346e3da9a572)
 
